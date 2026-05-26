@@ -97,10 +97,10 @@ namespace T2
                 while (temp.Dere != null) {
                     temp = temp.Dere;
                 }
-                Console.WriteLine(temp.ToString();
+                Console.WriteLine(temp.ToString());
             }
             else {
-                Console.WriteLine(padre.ToString();
+                Console.WriteLine(padre.ToString());
             }
                             
 
